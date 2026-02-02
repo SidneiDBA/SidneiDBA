@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SidneiDBA
 - 👀 I’m interested in Technology. 
-- 🌱 I’m currently learning Data Engineering. 
+ 
 
 
 <!---
